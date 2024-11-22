@@ -1,0 +1,193 @@
+﻿.row.content {
+    height: 1500px
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+    padding: 20px;
+}
+
+.sidenav {
+    height: auto;
+    text-align: center;
+    font-family: Dubai;
+    color: lightgoldenrodyellow;
+    background-image: url("imgs/SideNaveStarWars.PNG");
+}
+
+#btnSearch {
+    background-color: #696969;
+    color: #FFFFF0;
+    border-radius: 5px;
+}
+
+    #btnSearch:hover {
+        opacity: 0.8;
+        color: black;
+        background-color: lightgoldenrodyellow;
+    }
+
+#btnLogOut {
+    float: right;
+    padding: 15px;
+    border-radius: 100px;
+    font-family: Dubai;
+}
+
+    #btnLogOut:hover {
+        opacity: 0.8;
+        background-color: lightgoldenrodyellow;
+    }
+
+#btnSend {
+    border-radius: 6px;
+    background-color: #526958;
+    color: #F0FFF0;
+}
+
+    #btnSend:hover {
+        background-color: #2F4F4F;
+        color: #F0FFF0;
+    }
+
+#btnDelete {
+    border-radius: 6px;
+    background-color: #526958;
+    color: #F0FFF0;
+}
+
+    #btnDelete:hover {
+        background-color: #708090;
+        color: #F0FFF0;
+    }
+
+#pnlContent {
+    padding: 15px;
+    border-radius: 100px;
+    font-family: Dubai;
+}
+
+#btnCompose {
+    border-radius: 100px;
+    background-color: #191970;
+    color: #F0FFF0;
+}
+
+#btnInbox {
+    border-radius: 6px;
+    background-color: black;
+    color: #F0FFF0;
+}
+
+#btnSent {
+    border-radius: 6px;
+    background-color: black;
+    color: #F0FFF0;
+}
+
+#btnFlag {
+    border-radius: 6px;
+    background-color: black;
+    color: #F0FFF0;
+}
+
+#btnTrash {
+    border-radius: 6px;
+    background-color: black;
+    color: #F0FFF0;
+}
+
+#btnBack {
+    background-color: #696969;
+    color: #FFFFF0;
+    border-radius: 5px;
+}
+
+#btnBack2 {
+    background-color: #696969;
+    color: #FFFFF0;
+    border-radius: 5px;
+}
+
+#ddlTags {
+    color: black;
+    font-family: Dubai;
+}
+
+#imgAvatar {
+    border-radius: 100px;
+}
+
+#btnFlagMessage {
+    background-color: #696969;
+    color: #FFFFF0;
+    border-radius: 5px;
+}
+
+    #btnFlagMessage:hover {
+        opacity: 0.8;
+        color: black;
+        background-color: lightgoldenrodyellow;
+    }
+
+#btnUnFlaMessage {
+    background-color: #696969;
+    color: #FFFFF0;
+    border-radius: 5px;
+}
+
+    #btnUnFlaMessage:hover {
+        opacity: 0.8;
+        color: black;
+        background-color: lightgoldenrodyellow;
+    }
+
+#btnAddNewTag {
+    background-color: #778899;
+    color: #FFE4E1;
+    border-radius: 3px;
+}
+
+    #btnAddNewTag:hover {
+        background-color: lightgoldenrodyellow;
+        color: black;
+    }
+
+.col-sm-9 {
+    border-radius: 25px;
+    padding: 50px;
+    background-image: url("imgs/deathStarLong.PNG");
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 120%;
+    font-family: Dubai;
+    color: lightgoldenrodyellow;
+    padding-top: 100px;
+    padding-bottom: 580px;
+    height: auto;
+}
+
+#form1 {
+    background-color: black;
+    height: auto;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #2A2A2A;
+    color: #D2CA00;
+    text-align: center;
+}
+
+#gvEmail {
+    width: 100%;
+}
+
+#gvSent {
+    width: 100%;
+}

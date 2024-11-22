@@ -1,0 +1,39 @@
+﻿.main {
+    padding: 50px;
+    background-image: url("imgs/spaceBG.jpg");
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 130%;
+    font-family: Dubai;
+    color: lightgoldenrodyellow;
+    padding-bottom: 580px;
+}
+
+#btnCreateAccount {
+    background-color: #696969;
+    color: #FFFFF0;
+    border-radius: 5px;
+    font-size: 70%;
+    font-family: Dubai;
+}
+
+    #btnCreateAccount:hover {
+        opacity: 0.8;
+        color: black;
+        background-color: lightgoldenrodyellow;
+    }
+
+#btnSignIn {
+    background-color: #696969;
+    color: #FFFFF0;
+    border-radius: 5px;
+    font-size: 70%;
+    font-family: Dubai;
+}
+
+    #btnSignIn:hover {
+        opacity: 0.8;
+        color: black;
+        background-color: lightgoldenrodyellow;
+    }

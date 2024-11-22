@@ -1,0 +1,54 @@
+﻿#form1 {
+    padding: 50px;
+    background-image: url("imgs/spaceBG.jpg");
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 100%;
+    font-family: Dubai;
+    color: lightgoldenrodyellow;
+    padding-top: 100px;
+    padding-bottom: 580px;
+}
+
+#btnLogOut {
+    border-radius: 100px;
+    font-family: Dubai;
+}
+
+    #btnLogOut:hover {
+        opacity: 0.8;
+        background-color: lightgoldenrodyellow;
+    }
+
+#btnEmailManager {
+    border-radius: 100px;
+    font-family: Dubai;
+}
+
+    #btnEmailManager:hover {
+        opacity: 0.8;
+        background-color: lightgoldenrodyellow;
+    }
+
+#btnBanned {
+    border-radius: 5px;
+    font-family: Dubai;
+    background-color: lightgoldenrodyellow;
+}
+
+    #btnBanned:hover {
+        opacity: 0.8;
+        background-color: #DC143C;
+    }
+
+#btnUnBanned {
+    border-radius: 5px;
+    font-family: Dubai;
+    background-color: lightgoldenrodyellow;
+}
+
+    #btnUnBanned:hover {
+        opacity: 0.8;
+        background-color: #49F477;
+    }

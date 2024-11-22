@@ -1,0 +1,38 @@
+﻿#form1 {
+    padding: 50px;
+    background-image: url("imgs/spaceBG.jpg");
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    font-size: 130%;
+    font-family: Dubai;
+    color: lightgoldenrodyellow;
+    padding-bottom: 580px;
+}
+
+#btnLogOut {
+    float: right;
+    padding: 15px;
+    border-radius: 100px;
+    font-family: Dubai;
+}
+
+    #btnLogOut:hover {
+        opacity: 0.8;
+        background-color: lightgoldenrodyellow;
+    }
+
+#ddlAvatar {
+    font-family: Dubai;
+}
+
+#btnCreateAccount {
+    border-radius: 6px;
+    background-color: #526958;
+    color: #F0FFF0;
+}
+
+    #btnCreateAccount:hover {
+        background-color: #2F4F4F;
+        color: #F0FFF0;
+    }
